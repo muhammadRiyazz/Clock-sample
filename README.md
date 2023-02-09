@@ -1,6 +1,6 @@
 # clock_sample
 
-A new Flutter project.
+A clock app project using git collaberation . contributers are Riyaz, Ajmal , Rafeeq, Misab.
 
 ## Getting Started
 
